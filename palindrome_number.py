@@ -1,7 +1,7 @@
 # 9. Palindrome Number
 # Difficulty: Easy
 # Approach: String Reversal
-# Runtime: 
+# Runtime: 7ms - Beats 63.19%
 
 class Solution:
     def isPalindrome(self, x: int) -> bool:
