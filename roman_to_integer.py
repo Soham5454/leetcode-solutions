@@ -1,8 +1,3 @@
-# 13. Roman to Integer
-# Difficulty: Easy
-# Approach: Hashmap + Loop
-# Runtime: 0ms - Beats 100%
-
 class Solution:
     def romanToInt(self, s: str) -> int:
         roman = {
