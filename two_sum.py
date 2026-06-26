@@ -1,8 +1,3 @@
-# 1. Two Sum
-# Difficulty: Easy
-# Approach: Hashmap
-# Runtime: 0ms - Beats 100%
-
 class Solution:
     def twoSum(self, nums, target):
         hashmap = {}
