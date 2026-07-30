@@ -6,4 +6,4 @@ class Solution:
         total = 0
         for i, f in enumerate(freq):
             total += f * (i // 8 + 1)
-        return total
+        return total 
